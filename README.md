@@ -3,7 +3,7 @@
 
 Retail ERP is a powerful, easy to use POS for Windows (all versions) user. It is rich in features, ever think of any easy way to handle financial functions such as purchase/ purchase order/ purchase return, sales, sales return, stock adjustment, adding/ removing items etc. As simple as you want, as sophisticated as you need – Retail ERP is one of the most comprehensive retail management software solutions available globally. Point Of Sale and Billing System increases operational efficiency to deliver increased productivity and ultimately widen profit margins. Complete retail management software designed for specialty retail businesses. This Retail POS can be used for pharmacies, inventories, super markets, retail shops, clinics and any retail businesses. This Retail ERP has front office and back office features with all kind of tax settings allowing including Indian GST.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2017/11/retail-erp-0.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738545223_54b510026dbf2316493e.webp">
 
 <b>POS and Billing Software has following key features:</b>
 
@@ -37,5 +37,15 @@ Retail ERP is a powerful, easy to use POS for Windows (all versions) user. It is
 <li>Printing Bills</li>
 <li>Database Backup/ Restore</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/indian-gst-pos-billing-system/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/indian-gst-based-pos-and-billing-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
